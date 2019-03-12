@@ -28,6 +28,9 @@ export default class App extends React.Component {
           <Text style={styles.instructions}>
             To get started, edit App.js
           </Text>
+          <Text style={styles.instructions}>
+            Cuongdz
+          </Text>
           {Platform.OS === 'ios' ? (
             <Text style={styles.instructions}>
               Press Cmd+R to reload,{'\n'}

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "620499494201",
+    "firebase_url": "https://shippercare-fb7c4.firebaseio.com",
+    "project_id": "shippercare-fb7c4",
+    "storage_bucket": "shippercare-fb7c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620499494201:android:2a25e9d759bd6a70",
+        "android_client_info": {
+          "package_name": "com.ccare.shippercare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620499494201-50cevf8r47ii69vgin7selg9rhrntlph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ccare.shippercare",
+            "certificate_hash": "f4ae1969a011cd740207f19d64bcb0da8b93740d"
+          }
+        },
+        {
+          "client_id": "620499494201-t2mf2mekcmsqqvefene6polqlbm5lvrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoAVrmQlRaNL7VF23ECE1goGTuqUMnRQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620499494201-t2mf2mekcmsqqvefene6polqlbm5lvrd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620499494201-3rmut1488mctdoogkbasc5rugm6kdpfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ccare.shippercare"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
